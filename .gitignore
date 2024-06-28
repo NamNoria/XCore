@@ -1,0 +1,7 @@
+#directors
+.vs/
+x64/
+
+#files
+XCore.VC.VC.opendb
+XCore.VC.db
