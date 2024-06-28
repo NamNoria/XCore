@@ -54,7 +54,7 @@
       </PrecompiledHeader>
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
-      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <SDLCheck>true</SDLCheck>
     </ClCompile>
     <Link>
@@ -82,11 +82,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Test.cpp" />
+    <ClCompile Include="XCommon.cpp" />
     <ClCompile Include="XCore.cpp" />
     <ClCompile Include="XLog.cpp" />
     <ClCompile Include="XThreadBase.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="XCommon.h" />
     <ClInclude Include="XCore.h" />
     <ClInclude Include="XLog.h" />
     <ClInclude Include="XThreadBase.h" />

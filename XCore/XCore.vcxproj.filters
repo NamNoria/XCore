@@ -27,6 +27,9 @@
     <ClCompile Include="XCore.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="XCommon.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="XCore.h">
@@ -36,6 +39,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="XThreadBase.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="XCommon.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

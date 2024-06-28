@@ -4,48 +4,6 @@ Log entry from thread 2, message 0
 Log entry from thread 1, message 1
 Log entry from thread 2, message 1
 Log entry from thread 1, message 2
-Log entry from thread 2, message 2
-Log entry from thread 1, message 3
-Log entry from thread 1, message 4
-Log entry from thread 2, message 3
-Log entry from thread 1, message 5
-Log entry from thread 2, message 4
-Log entry from thread 1, message 6
-Log entry from thread 1, message 7
-Log entry from thread 2, message 5
-Log entry from thread 1, message 8
-Log entry from thread 2, message 6
-Log entry from thread 1, message 9
-Log entry from thread 2, message 7
-Log entry from thread 2, message 8
-Log entry from thread 2, message 9
-ceshi rizhi
-Log entry from thread 1, message 0
-Log entry from thread 2, message 0
-Log entry from thread 1, message 1
-Log entry from thread 2, message 1
-Log entry from thread 1, message 2
-Log entry from thread 2, message 2
-Log entry from thread 1, message 3
-Log entry from thread 1, message 4
-Log entry from thread 2, message 3
-Log entry from thread 1, message 5
-Log entry from thread 2, message 4
-Log entry from thread 1, message 6
-Log entry from thread 1, message 7
-Log entry from thread 2, message 5
-Log entry from thread 1, message 8
-Log entry from thread 2, message 6
-Log entry from thread 1, message 9
-Log entry from thread 2, message 7
-Log entry from thread 2, message 8
-Log entry from thread 2, message 9
-ceshi rizhi
-Log entry from thread 1, message 0
-Log entry from thread 2, message 0
-Log entry from thread 1, message 1
-Log entry from thread 2, message 1
-Log entry from thread 1, message 2
 Log entry from thread 1, message 3
 Log entry from thread 2, message 2
 Log entry from thread 1, message 4
@@ -56,113 +14,50 @@ Log entry from thread 1, message 6
 Log entry from thread 1, message 7
 Log entry from thread 2, message 5
 Log entry from thread 1, message 8
-Log entry from thread 2, message 6
 Log entry from thread 1, message 9
+Log entry from thread 2, message 6
 Log entry from thread 2, message 7
 Log entry from thread 2, message 8
 Log entry from thread 2, message 9
-ceshi rizhi
-Log entry from thread 2, message 0
-Log entry from thread 1, message 0
-Log entry from thread 1, message 1
-Log entry from thread 2, message 1
-Log entry from thread 1, message 2
-Log entry from thread 2, message 2
-Log entry from thread 1, message 3
-Log entry from thread 1, message 4
-Log entry from thread 2, message 3
-Log entry from thread 1, message 5
-Log entry from thread 2, message 4
-Log entry from thread 1, message 6
-Log entry from thread 1, message 7
-Log entry from thread 2, message 5
-Log entry from thread 1, message 8
-Log entry from thread 2, message 6
-Log entry from thread 1, message 9
-Log entry from thread 2, message 7
-Log entry from thread 2, message 8
-Log entry from thread 2, message 9
-ceshi rizhi
-Log entry from thread 2, message 0
-Log entry from thread 1, message 0
-Log entry from thread 1, message 1
-Log entry from thread 2, message 1
-Log entry from thread 1, message 2
-Log entry from thread 2, message 2
-Log entry from thread 1, message 3
-Log entry from thread 1, message 4
-Log entry from thread 2, message 3
-Log entry from thread 1, message 5
-Log entry from thread 2, message 4
-Log entry from thread 1, message 6
-Log entry from thread 1, message 7
-Log entry from thread 2, message 5
-Log entry from thread 1, message 8
-Log entry from thread 2, message 6
-Log entry from thread 1, message 9
-Log entry from thread 2, message 7
-Log entry from thread 2, message 8
-Log entry from thread 2, message 9
-ceshi rizhi
-Log entry from thread 1, message 0
-Log entry from thread 2, message 0
-Log entry from thread 1, message 1
-Log entry from thread 2, message 1
-Log entry from thread 1, message 2
-Log entry from thread 2, message 2
-Log entry from thread 1, message 3
-Log entry from thread 1, message 4
-Log entry from thread 2, message 3
-Log entry from thread 1, message 5
-Log entry from thread 2, message 4
-Log entry from thread 1, message 6
-Log entry from thread 1, message 7
-Log entry from thread 2, message 5
-Log entry from thread 1, message 8
-Log entry from thread 2, message 6
-Log entry from thread 1, message 9
-Log entry from thread 2, message 7
-Log entry from thread 2, message 8
-Log entry from thread 2, message 9
-ceshi rizhi
-Log entry from thread 1, message 0
-Log entry from thread 2, message 0
-Log entry from thread 1, message 1
-Log entry from thread 2, message 1
-Log entry from thread 1, message 2
-Log entry from thread 2, message 2
-Log entry from thread 1, message 3
-Log entry from thread 1, message 4
-Log entry from thread 2, message 3
-Log entry from thread 1, message 5
-Log entry from thread 2, message 4
-Log entry from thread 1, message 6
-Log entry from thread 1, message 7
-Log entry from thread 2, message 5
-Log entry from thread 1, message 8
-Log entry from thread 2, message 6
-Log entry from thread 1, message 9
-Log entry from thread 2, message 7
-Log entry from thread 2, message 8
-Log entry from thread 2, message 9
-ceshi rizhi
-Log entry from thread 1, message 0
-Log entry from thread 2, message 0
-Log entry from thread 1, message 1
-Log entry from thread 2, message 1
-Log entry from thread 1, message 2
-Log entry from thread 2, message 2
-Log entry from thread 1, message 3
-Log entry from thread 1, message 4
-Log entry from thread 2, message 3
-Log entry from thread 1, message 5
-Log entry from thread 2, message 4
-Log entry from thread 1, message 6
-Log entry from thread 1, message 7
-Log entry from thread 2, message 5
-Log entry from thread 1, message 8
-Log entry from thread 2, message 6
-Log entry from thread 1, message 9
-Log entry from thread 2, message 7
-Log entry from thread 2, message 8
-Log entry from thread 2, message 9
+[2024-06-28 16:21:20] ceshi rizhi
+[2024-06-28 16:21:20] Log entry from thread 1, message 0
+[2024-06-28 16:21:20] Log entry from thread 2, message 0
+[2024-06-28 16:21:21] Log entry from thread 1, message 1
+[2024-06-28 16:21:22] Log entry from thread 2, message 1
+[2024-06-28 16:21:22] Log entry from thread 1, message 2
+[2024-06-28 16:21:23] Log entry from thread 2, message 2
+[2024-06-28 16:21:23] Log entry from thread 1, message 3
+[2024-06-28 16:21:24] Log entry from thread 1, message 4
+[2024-06-28 16:21:25] Log entry from thread 2, message 3
+[2024-06-28 16:21:25] Log entry from thread 1, message 5
+[2024-06-28 16:21:26] Log entry from thread 2, message 4
+[2024-06-28 16:21:26] Log entry from thread 1, message 6
+[2024-06-28 16:21:27] Log entry from thread 1, message 7
+[2024-06-28 16:21:28] Log entry from thread 2, message 5
+[2024-06-28 16:21:28] Log entry from thread 1, message 8
+[2024-06-28 16:21:29] Log entry from thread 2, message 6
+[2024-06-28 16:21:29] Log entry from thread 1, message 9
+[2024-06-28 16:21:31] Log entry from thread 2, message 7
+[2024-06-28 16:21:32] Log entry from thread 2, message 8
+[2024-06-28 16:21:34] Log entry from thread 2, message 9
+[2024-06-28 18:17:48] ceshi rizhi
+[2024-06-28 18:17:48] Log entry from thread 1, message 0
+[2024-06-28 18:17:48] Log entry from thread 2, message 0
+[2024-06-28 18:17:49] Log entry from thread 1, message 1
+[2024-06-28 18:17:49] Log entry from thread 2, message 1
+[2024-06-28 18:17:50] Log entry from thread 1, message 2
+[2024-06-28 18:17:55] Log entry from thread 2, message 2
+[2024-06-28 18:17:55] Log entry from thread 1, message 3
+[2024-06-28 18:17:56] Log entry from thread 1, message 4
+[2024-06-28 18:17:57] Log entry from thread 2, message 3
+[2024-06-28 18:17:57] Log entry from thread 1, message 5
+[2024-06-28 18:17:58] Log entry from thread 2, message 4
+[2024-06-28 18:17:58] Log entry from thread 1, message 6
+[2024-06-28 18:17:59] Log entry from thread 1, message 7
+[2024-06-28 18:18:00] Log entry from thread 2, message 5
+[2024-06-28 18:18:00] Log entry from thread 1, message 8
+[2024-06-28 18:18:01] Log entry from thread 1, message 9
+[2024-06-28 18:18:01] Log entry from thread 2, message 6
+[2024-06-28 18:18:03] Log entry from thread 2, message 7
+[2024-06-28 18:18:04] Log entry from thread 2, message 8
+[2024-06-28 18:18:06] Log entry from thread 2, message 9

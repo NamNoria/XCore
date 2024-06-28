@@ -16,10 +16,6 @@ void XCORE::XLogThread::Run()
 
 		while (!logQueue.empty())
 		{
-			std::ofstream file("logfile.txt", std::ios_base::app);
-			file << logQueue.front() << std::endl;
-			file.close();
-
 			std::time_t now = std::time(nullptr);
 			struct tm timeinfo;
 			localtime_s(&timeinfo, &now);
@@ -29,6 +25,10 @@ void XCORE::XLogThread::Run()
 			std::string logEntry = "[" + std::string(buf) + "] " + logQueue.front();
 			std::cout << logEntry << std::endl;
 			logQueue.pop();
+
+			std::ofstream file("logfile.txt", std::ios_base::app);
+			file << logEntry << std::endl;
+			file.close();
 		}
 	}
 }
