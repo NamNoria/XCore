@@ -17,46 +17,13 @@ namespace XCORE
 	class XLogThread : public XThreadBase
 	{
 	public:
-		XLogThread()
-			: running(true), thread(&XLogThread::Run, this)
-		{}
-		void Run()
-		{
-			while (running)
-			{
-				std::unique_lock<std::mutex> lock(mutex);
-				cond.wait(lock, [this] { return !logQueue.empty() || !running; });
+		XLogThread();
+		~XLogThread();
 
-				while (!logQueue.empty())
-				{
-					std::ofstream file("logfile.txt", std::ios_base::app);
-					file << logQueue.front() << std::endl;
-					file.close();
+		void Run();
 
-					std::cout << "Logged: " << logQueue.front() << std::endl;
-					logQueue.pop();
-				}
-			}
-		}
+		void log(const std::string& message);
 
-		void log(const std::string& message)
-		{
-			std::unique_lock<std::mutex> lock(mutex);
-			logQueue.push(message);
-			lock.unlock();
-			cond.notify_one();
-		}
-
-
-		~XLogThread()
-		{
-			running = false;
-			cond.notify_one();
-			if (thread.joinable())
-			{
-				thread.join();
-			}
-		}
 	private:
 		bool running;
 		std::mutex mutex;

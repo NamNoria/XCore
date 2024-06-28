@@ -32,7 +32,7 @@ int main(void)
             for (int i = 0; i < 10; ++i)
             {
                 LOG("Log entry from thread 1, message " + std::to_string(i));
-                std::this_thread::sleep_for(std::chrono::milliseconds(100));
+                std::this_thread::sleep_for(std::chrono::milliseconds(1000));
             }
             });
 
@@ -40,7 +40,7 @@ int main(void)
             for (int i = 0; i < 10; ++i)
             {
                 LOG("Log entry from thread 2, message " + std::to_string(i));
-                std::this_thread::sleep_for(std::chrono::milliseconds(150));
+                std::this_thread::sleep_for(std::chrono::milliseconds(1500));
             }
             });
 
