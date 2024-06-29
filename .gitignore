@@ -5,3 +5,4 @@ x64/
 #files
 XCore.VC.VC.opendb
 XCore.VC.db
+/XCore/XCore.vcxproj.user
